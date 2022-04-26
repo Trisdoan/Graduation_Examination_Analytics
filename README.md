@@ -8,3 +8,5 @@ You can view his course here: https://dunglailaptrinh.com/L-p-H-c-Data-Science-C
 1. Using FileIO to read data.txt
 2.
 3.
+
+<img src="images/1.jpg" width="300"/> <img src="images/1.jpg" width="300"/> <img src="images/1.jpg" width="300"/>
