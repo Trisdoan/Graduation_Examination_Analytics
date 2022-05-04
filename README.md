@@ -21,7 +21,7 @@ You can view his course here: https://dunglailaptrinh.com/L-p-H-c-Data-Science-C
     * Average scores of candidates who did not sit for some subjects
     * Numbers of candidates who did not sit for some subjects
 
-<img src="images/1.jpg" width="300"/> 
+<img src="images/collage.jpg" width="300"/> 
 
 # Explained approach
 
